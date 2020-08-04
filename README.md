@@ -1,4 +1,4 @@
-### Hi there 👋
+Currently majority of rthe epositories are in the process of migration to [GitLab](https://gitlab.com/ribtoks)
 
 <!--
 **ribtoks/ribtoks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
