@@ -1,4 +1,4 @@
-Currently majority of the repositories are in the process of migration to [GitLab](https://gitlab.com/ribtoks)
+[An open letter from IT industry specialists to protect Ukraine from information warfare](https://github.com/stop-war-in-ukraine/stop-russia-it)
 
 <!--
 **ribtoks/ribtoks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
