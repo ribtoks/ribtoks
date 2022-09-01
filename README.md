@@ -1,4 +1,5 @@
-[An open letter from IT industry specialists to protect Ukraine from information warfare](https://github.com/stop-war-in-ukraine/stop-russia-it)
+
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
 <!--
 **ribtoks/ribtoks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
